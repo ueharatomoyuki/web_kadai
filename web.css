@@ -1,6 +1,6 @@
 body{
     background-color: aquamarine;
-    margin:0;
+    margin: 0;
 }
 header{
     position:relative;
@@ -48,4 +48,13 @@ h3{
 .sya{
     width:200px;
     height: 75px;
+}
+.bun{
+    background-color: rgb(239, 184, 184);
+    display: inline-block;
+    border-radius: 10px;
+    padding: 10px;
+}
+.d{
+    margin: 20px;
 }

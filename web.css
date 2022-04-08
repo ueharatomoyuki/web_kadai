@@ -1,0 +1,51 @@
+body{
+    background-color: aquamarine;
+    margin:0;
+}
+header{
+    position:relative;
+    height: 50px;
+    background: url(images/universe-ge3be710d2_1920.jpg)
+}
+#title{
+    margin-top:0;
+    color: azure;
+    text-align:center;
+}
+h2{
+    text-align: center;
+}
+.prf {
+    background-color: bisque;
+    display: inline-block ;
+    text-align:left;  
+    border:solid 3px #fff; 
+    padding: 2em;
+}
+.waku{
+    text-align:center;
+    display: block;
+    margin:16px auto;
+}
+h3{
+    background-color: rgb(89, 89, 254);
+    padding:3px;
+    display: inline-block ;
+    border-radius: 10px;
+}
+.img_sa{
+    width: 600px;
+    height: 250px;
+}
+.come{
+    background-color: rgb(242, 243, 213);
+    display: inline-block;
+    border-radius: 10px;
+}
+.top{
+    text-align: center;
+}
+.sya{
+    width:200px;
+    height: 75px;
+}
